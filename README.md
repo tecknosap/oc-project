@@ -68,7 +68,7 @@ https://github.com/tecknosap/oc-project.git
 
 Standard execution flow:
 
-```bash
+```text
 terraform init
 terraform plan
 terraform apply
