@@ -25,7 +25,6 @@ Once enabled, the project configuration is stored and managed through Git instea
 
 Before Terraform can manage the project, it must be imported:
 
-```text
 terraform import octopusdeploy_project.project Projects-114
 ````
 
